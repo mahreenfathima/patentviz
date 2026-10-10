@@ -159,7 +159,7 @@ patentviz/
 
 ## Demo
 
-**TODO:** link to the demo video and a sample project folder.
+https://drive.google.com/file/d/1_4l78Up57_mJE-FEGMJ5PhV5KwbJpgPF/view?usp=sharing
 
 
 ## Licence

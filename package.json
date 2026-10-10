@@ -1,0 +1,14 @@
+{
+  "name": "patentviz",
+  "version": "1.0.0",
+  "description": "Turn one patent into a 16:9 animated explainer video and a 4-page infographic PDF, built from SerpApi data.",
+  "type": "module",
+  "main": "cli/patentviz.js",
+  "bin": { "patentviz": "cli/patentviz.js" },
+  "scripts": {
+    "start": "node cli/patentviz.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
